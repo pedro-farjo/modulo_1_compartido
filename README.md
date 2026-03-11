@@ -8,3 +8,11 @@
 #### Renzo Martini https://github.com/Renzo-Martini
 #### Luca Silioni https://github.com/lucasilioni
 #### Lucas Vega https://github.com/lucassvegaa
+|Nombre|Apellido|Número|Link|Correo|
+|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+|Enzo|Carbone|
+|Pedro|Farjo|
+|Ignacio|March|
+|Renzo|Martini|
+|Luca|Silioni|
+|Lucas|Vega|
