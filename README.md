@@ -26,28 +26,19 @@ https://docs.google.com/document/d/1pJXIjcOtb2fR6BmJbXKqqoWIRqRxZItcyGIp6JFT6CU/
 ## Modelo de armado de una página web:
 ~~~
 <HTML>
+  <head>
+    <h1>Mi primer página web</h1>
+  </head>
+  <body>
+    Esto es el cuerpo del texto.
+    <p>Esto es un párrafo</p>
 
-<head>
+    <ul>
 
-<h1>Mi primer página web</h1>
-
-</head>
-
-<body>
-
-Esto es el cuerpo del texto. <p>Esto es un párrafo</p>
-
-<ul>
-
-<li>primera</li>
-
-<li>segunda</li>
-
-<li>tercera</li>
-
-</ul>
-
-</body>
-
+      <li>primero</li>
+      <li>segundo</li>
+      <li>tercero</li>
+    </ul>
+  </body>
 </HTML>
 ~~~
