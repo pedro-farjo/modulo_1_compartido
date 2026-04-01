@@ -19,3 +19,6 @@
 |Luca|Silioni|2613035542|https://github.com/lucasilioni/|lucasilioni05@gmail.com|
 |Lucas|Vega|2616412711|https://github.com/lucassvegaa/modulo_1|lucasvega762@gmail.com|
 
+Guia de atajos de Markdown
+
+https://docs.google.com/document/d/1pJXIjcOtb2fR6BmJbXKqqoWIRqRxZItcyGIp6JFT6CU/edit?usp=sharing
