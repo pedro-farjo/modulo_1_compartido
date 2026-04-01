@@ -19,6 +19,35 @@
 |Luca|Silioni|2613035542|https://github.com/lucasilioni/|lucasilioni05@gmail.com|
 |Lucas|Vega|2616412711|https://github.com/lucassvegaa/modulo_1|lucasvega762@gmail.com|
 
-Guia de atajos de Markdown
+## Guia de atajos de Markdown
 
 https://docs.google.com/document/d/1pJXIjcOtb2fR6BmJbXKqqoWIRqRxZItcyGIp6JFT6CU/edit?usp=sharing
+
+## Modelo de armado de una página web:
+~~~
+<HTML>
+
+<head>
+
+<h1>Mi primer página web</h1>
+
+</head>
+
+<body>
+
+Esto es el cuerpo del texto. <p>Esto es un párrafo</p>
+
+<ul>
+
+<li>primera</li>
+
+<li>segunda</li>
+
+<li>tercera</li>
+
+</ul>
+
+</body>
+
+</HTML>
+~~~
